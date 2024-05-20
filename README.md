@@ -1,2 +1,2 @@
 # C-Projects
-Meus programas feitos em C (primeira linguagem aprendida), desde o início
+Meus programas feitos em C (primeira linguagem aprendida), todas feitas em meu primeiro semestre da faculdade.
